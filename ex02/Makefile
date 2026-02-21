@@ -6,13 +6,13 @@
 #    By: atran <atran@student.hive.fi>              +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/12/09 11:16:10 by atran             #+#    #+#              #
-#    Updated: 2026/02/20 17:37:27 by atran            ###   ########.fr        #
+#    Updated: 2026/02/21 13:56:49 by atran            ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 NAME = ex02
 
-SRCS = main.cpp Span.cpp
+SRCS = main.cpp
 
 OBJS = $(SRCS:%.cpp=%.o)
 
